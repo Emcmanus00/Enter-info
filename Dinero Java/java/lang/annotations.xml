@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.ClassLoader java.lang.Class&lt;?&gt; loadClass(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;null, false, -&gt; new&quot;"/>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
